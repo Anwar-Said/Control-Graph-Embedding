@@ -1,5 +1,5 @@
 # Control-Descriptor_ICDM
-source code for the paper "Network Controllability Perspective on Graph Representation" submitted for review to ICDM2022
+source code for the paper "Network Controllability Perspective on Graph Representation" submitted for review to ICLR2023
 
 Requirements:
 
