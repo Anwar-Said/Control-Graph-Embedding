@@ -1,5 +1,5 @@
-# Control-Descriptor_ICLR23
-source code for the paper "Network Controllability Perspective on Graph Representation" submitted for review to ICLR2023
+# Control-Descriptor
+source code for the paper "Network Controllability Perspective on Graph Representation" submitted for review TKDE
 
 Requirements:
 
